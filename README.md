@@ -18,6 +18,13 @@ I start by understanding the context and the problem, then choose the tools and 
 
 I use GitHub to organize ideas, document processes, and develop projects over time. Most of my current work remains private while in development. I'll share selected projects and resources here as they're ready.
 
+## Research & publications
+
+My published research has focused on the documentation, conservation, and reuse of historical hydraulic landscapes, particularly qanat systems in Iran.
+
+- **2022 — *Heritage*, 5(4), 3165–3187.** [Applying ICOMOS-IFLA Principles for the Conservation, Management and Reuse of a Historical Hydraulic System: The No-Ras Qanat in North-Western Iran](https://doi.org/10.3390/heritage5040163). With Federico Zaina and Paola Branduini.
+- **2021 — ARQUEOLÓGICA 2.0 & GEORES, conference proceedings.** [Qanats as an Endangered Traditional Hydraulic Heritage. An Integrated Methodology for Documenting, Restoring and Reusing an Ancient Iranian Qanat](https://re.public.polimi.it/handle/11311/1172039). With Paola Branduini, Federico Zaina, and Yasaman Nabati Mazloumi.
+
 ## Connect
 
 [Instagram](https://www.instagram.com/tinimana.studio/) · [YouTube](https://www.youtube.com/@tinimana.studio) · [TikTok](https://www.tiktok.com/@tinimana.studio)
