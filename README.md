@@ -1,8 +1,8 @@
 # Fereshteh Zavvari
 
-**Architect · Sustainable Building Design · Energy Retrofit · Architectural and Urban Research**
+**Architectural Design · Sustainable Building Design · Energy Retrofit · Architectural and Urban Research**
 
-I am an architect and designer based in Bologna, Italy, working across sustainable architecture, existing-building transformation, energy performance, and interdisciplinary design research.
+I work in architectural design and research, with a focus on sustainable architecture, existing-building transformation, energy performance, and interdisciplinary approaches to the built environment.
 
 My work connects architectural thinking with the practical demands of building renewal: assessing existing conditions, improving building-envelope performance, preparing technical documentation, and exploring design strategies that respond to climate, heritage, and place.
 
@@ -18,21 +18,12 @@ I am also the founder of **TINIMANA**, an independent creative practice explorin
 
 ## Education
 
-- **MSc, Sustainable Architecture and Landscape Design** — Politecnico di Milano, Italy (2017–2021)
 - **MSc, Urban Planning and Design** — Imam Khomeini International University, Iran (2013–2016)
 - **BSc, Architecture** — Islamic Azad University, Tabriz, Iran (2006–2010)
 
-## Professional experience
+## Applied interests and technical work
 
-**Architect — Valentina Gozzi Studio, Bologna, Italy**  
-*September 2021–present*
-
-Work includes building renewal and energy-retrofit support, building-envelope assessment, APE and Legge 10-related documentation, technical drawings, reports, and authorization documents.
-
-**Architect — Azar Namad Energy Co., Tabriz, Iran**  
-*March 2013–May 2017*
-
-Work included existing-building assessments, renovation and maintenance-related work, site surveys, technical inspections, and documentation.
+My professional portfolio includes architectural documentation and building-renewal tasks, energy-performance assessment, envelope analysis, and retrofit-related technical work. Employer-specific roles, titles, and dates are omitted here until the underlying records have been reconciled.
 
 ## Research and publications
 
