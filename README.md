@@ -1,32 +1,60 @@
-# TINIMANA
+# Fereshteh Zavvari
 
-**Architecture · Spatial Design · Visual Storytelling · Creative Technology**
+**Architect · Sustainable Building Design · Energy Retrofit · Architectural and Urban Research**
 
-I'm an architect and urban designer with a background in sustainable design and building performance. My interests extend beyond physical spaces to how ideas are developed, communicated, and experienced.
+I am an architect and designer based in Bologna, Italy, working across sustainable architecture, existing-building transformation, energy performance, and interdisciplinary design research.
 
-TINIMANA is my independent creative practice, bringing together architecture, design, filmmaking, and digital experimentation.
+My work connects architectural thinking with the practical demands of building renewal: assessing existing conditions, improving building-envelope performance, preparing technical documentation, and exploring design strategies that respond to climate, heritage, and place.
 
-## Areas of work
+I am also the founder of **TINIMANA**, an independent creative practice exploring architecture, spatial design, visual storytelling, and creative technology.
 
-- **Architecture & spatial design** — Interior architecture, site design, building performance, and design research.
-- **Film & visual storytelling** — Creative direction, advertising films, visual narratives, and original animation.
-- **Digital tools & workflows** — Computational methods, creative automation, and agentic AI where they support research, design, and production.
+## Professional focus
 
-## My approach
+- **Sustainable architecture and building renewal** — Existing-building transformation, adaptive reuse, building-envelope strategies, and energy retrofit.
+- **Building energy and technical documentation** — Energy performance assessment, APE, Legge 10 documentation, thermal-transmittance considerations, and Namirial TERMO workflows in the Italian context.
+- **Architectural and urban research** — Sustainable landscape design, urban regeneration, historical hydraulic landscapes, heritage conservation, and reuse.
+- **Digital design and communication** — AutoCAD documentation, Revit/BIM-oriented workflows, Rhino modelling, GIS-based analysis, and visual communication.
+- **Creative practice** — Visual storytelling, design-led experimentation, and cross-disciplinary production through TINIMANA.
 
-I start by understanding the context and the problem, then choose the tools and methods that make sense for the work. Depending on the project, that might mean sketches, drawings, models, storyboards, prototypes, or digital workflows.
+## Education
 
-I use GitHub to organize ideas, document processes, and develop projects over time. Most of my current work remains private while in development. I'll share selected projects and resources here as they're ready.
+- **MSc, Sustainable Architecture and Landscape Design** — Politecnico di Milano, Italy (2017–2021)
+- **MSc, Urban Planning and Design** — Imam Khomeini International University, Iran (2013–2016)
+- **BSc, Architecture** — Islamic Azad University, Tabriz, Iran (2006–2010)
 
-## Research & publications
+## Professional experience
 
-My published research has focused on the documentation, conservation, and reuse of historical hydraulic landscapes, particularly qanat systems in Iran.
+**Architect — Valentina Gozzi Studio, Bologna, Italy**  
+*September 2021–present*
+
+Work includes building renewal and energy-retrofit support, building-envelope assessment, APE and Legge 10-related documentation, technical drawings, reports, and authorization documents.
+
+**Architect — Azar Namad Energy Co., Tabriz, Iran**  
+*March 2013–May 2017*
+
+Work included existing-building assessments, renovation and maintenance-related work, site surveys, technical inspections, and documentation.
+
+## Research and publications
+
+My published research has focused on documentation, conservation, and reuse of historical hydraulic landscapes, particularly qanat systems in Iran.
 
 - **2022 — *Heritage*, 5(4), 3165–3187.** [Applying ICOMOS-IFLA Principles for the Conservation, Management and Reuse of a Historical Hydraulic System: The No-Ras Qanat in North-Western Iran](https://doi.org/10.3390/heritage5040163). With Federico Zaina and Paola Branduini.
 - **2021 — ARQUEOLÓGICA 2.0 & GEORES, conference proceedings.** [Qanats as an Endangered Traditional Hydraulic Heritage. An Integrated Methodology for Documenting, Restoring and Reusing an Ancient Iranian Qanat](https://re.public.polimi.it/handle/11311/1172039). With Paola Branduini, Federico Zaina, and Yasaman Nabati Mazloumi.
 
-**Google Scholar:** [Publications and citation history](https://scholar.google.com/citations?user=9PlezH0AAAAJ&hl=en)
+**[Google Scholar — publications and citations](https://scholar.google.com/citations?user=9PlezH0AAAAJ&hl=en)**
+
+## Independent creative practice
+
+**[TINIMANA](https://www.instagram.com/tinimana.studio/)** brings together architecture, spatial design, visual storytelling, filmmaking, and creative technology. It is a distinct part of my work alongside architectural practice and research.
 
 ## Connect
 
-[Instagram](https://www.instagram.com/tinimana.studio/) · [YouTube](https://www.youtube.com/@tinimana.studio) · [TikTok](https://www.tiktok.com/@tinimana.studio)
+- [LinkedIn](https://www.linkedin.com/in/fereshtehzavvari/)
+- [Google Scholar](https://scholar.google.com/citations?user=9PlezH0AAAAJ&hl=en)
+- [TINIMANA on Instagram](https://www.instagram.com/tinimana.studio/)
+- [TINIMANA on YouTube](https://www.youtube.com/@tinimana.studio)
+- [TINIMANA on TikTok](https://www.tiktok.com/@tinimana.studio)
+
+---
+
+*This public profile presents a selected overview of my professional and academic work. Application-specific documents, academic records, and personal information are kept separately.*
